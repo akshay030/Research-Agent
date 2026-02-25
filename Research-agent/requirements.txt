@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+
+pydantic
+python-dotenv
+
+langchain
+langgraph
+langchain-groq
+langchain-tavily
+groq
+
+tavily-python
+httpx
